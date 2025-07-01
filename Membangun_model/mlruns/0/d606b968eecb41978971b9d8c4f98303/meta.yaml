@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/AKBAR/SMSML_AkbarNurRizqi/Membangun_model/mlruns/0/d606b968eecb41978971b9d8c4f98303/artifacts
+end_time: 1751195635067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d606b968eecb41978971b9d8c4f98303
+run_name: masked-lamb-325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751195351763
+status: 3
+tags: []
+user_id: AKBAR

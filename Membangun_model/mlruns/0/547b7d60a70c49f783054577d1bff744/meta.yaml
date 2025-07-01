@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/AKBAR/SMSML_AkbarNurRizqi/Membangun_model/mlruns/0/547b7d60a70c49f783054577d1bff744/artifacts
+end_time: 1751195631379
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 547b7d60a70c49f783054577d1bff744
+run_name: resilient-pug-863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751195351763
+status: 3
+tags: []
+user_id: AKBAR

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/AKBAR/SMSML_AkbarNurRizqi/Membangun_model/mlruns/0/models/m-d82ecede01c04141b99ca542f2b86f00/artifacts
+creation_timestamp: 1751195524729
+experiment_id: '0'
+last_updated_timestamp: 1751195576187
+model_id: m-d82ecede01c04141b99ca542f2b86f00
+model_type: null
+name: model
+source_run_id: d606b968eecb41978971b9d8c4f98303
+status: 2
+status_message: null
